@@ -1,0 +1,6 @@
+[package]
+name = "nodepack"
+version = "0.1.0"
+authors = ["zensh <admin@zensh.com>"]
+
+[dependencies]
