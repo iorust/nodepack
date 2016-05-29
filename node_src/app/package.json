@@ -1,0 +1,16 @@
+{
+  "name": "nodepack-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "admin@zensh.com",
+  "license": "ISC",
+  "dependencies": {
+    "ilog": "^1.0.3",
+    "toa": "^1.5.0",
+    "toa-morgan": "^1.0.2"
+  }
+}
